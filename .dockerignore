@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+**/venv/
+**/.venv/
+**/node_modules/
+.git/
+.gitignore
+README.md
+docker-compose*.yml
